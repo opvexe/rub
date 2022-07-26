@@ -1,0 +1,19 @@
+[package]
+name = "rub"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[workspace]
+members = [
+    "tcpserver",
+    "tcpclient",
+    "webservice",
+    "jsonserde",
+    "queue",
+    "stack",
+    "stacknode",
+    "some_condition",
+    "futures",
+    "moveus"
+]
