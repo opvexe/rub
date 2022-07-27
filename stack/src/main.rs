@@ -19,7 +19,7 @@ impl <T> Stack<T> {
         }
         self.data.push(item);
         self.top +=1;
-        Ok(())
+        return Ok(());
     }
 
     fn pop(&mut self) -> Option<T> {
