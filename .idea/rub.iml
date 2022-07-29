@@ -14,6 +14,7 @@
       <sourceFolder url="file://$MODULE_DIR$/some_condition/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/stack/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/stacknode/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/builds/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/tcpserver/target" />
     </content>

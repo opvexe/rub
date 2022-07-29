@@ -15,5 +15,6 @@ members = [
     "stacknode",
     "some_condition",
     "futures",
-    "moveus"
+    "moveus",
+    "builds"
 ]
